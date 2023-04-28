@@ -94,13 +94,3 @@ In this project there are some major and minor modules:
 
 ### User Profile Page
 ![Screenshot (194)](https://user-images.githubusercontent.com/95666818/213904405-0c7b50fe-7a9d-4e68-8569-530358fb9db1.png)
-
-
-
-## Authors
-
-- [@Mohd Ahasan Khan](https://github.com/MOHDAHASANKHAN1)
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-ahasan.vercel.app/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-ahasan-khan-0240b5205/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MoAhsanKhan5)
